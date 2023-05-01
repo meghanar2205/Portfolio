@@ -189,3 +189,49 @@ footer ul li a:hover
 	color:yellow;
 	text-decoration:none;
 }
+.center_align
+{
+	text-align:center;
+}
+.project_details_alignments img
+{	
+	width:200px;
+	height:200px;
+}
+.project_details_alignments .left_align
+{
+	padding-right:20px;
+	padding-left:0;
+}
+.project_details_alignments .right_align
+{
+	padding-left:20px;
+}
+.clearfix::after
+{	
+	content:"";
+	display:table;
+	clear:both;
+}
+.left
+{
+	float:left;
+	margin-right:20px;
+}
+.right
+{
+	float:right;
+	margin-left:20px;
+}
+.projectname
+{
+	color:#5B05E6;
+}
+.date
+{
+	color:#BAB5B8;
+}
+.project_details_alignments ul
+{
+	list-style-type:none;
+}
