@@ -195,8 +195,10 @@ footer ul li a:hover
 }
 .project_details_alignments img
 {	
-	width:200px;
-	height:200px;
+	min-height:190px;
+	min-width:190px;
+	max-width:200px;
+	max-height:200px;
 }
 .project_details_alignments .left_align
 {
