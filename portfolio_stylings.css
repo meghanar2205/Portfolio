@@ -198,7 +198,14 @@ footer ul li a:hover
 	width:250px;
 	height:250px;
 }
-
+@media only screen and (max-width:600px)
+{
+	.for_image
+	{	
+		width:120px;
+		height:120px;
+	}
+}
 .project_details_alignments .left_align
 {
 	padding-right:20px;
