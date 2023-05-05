@@ -224,12 +224,12 @@ footer ul li a:hover
 .left
 {
 	float:left;
-	margin-right:20px;
+	//margin-right:20px;
 }
 .right
 {
 	float:right;
-	margin-left:20px;
+	//margin-left:20px;
 }
 .projectname
 {
