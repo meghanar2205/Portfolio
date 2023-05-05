@@ -193,17 +193,17 @@ footer ul li a:hover
 {
 	text-align:center;
 }
-.project_details_alignments img
+.for_image
 {	
-	max-width:200px;
-	max-height:200px;
+	width:250px;
+	height:250px;
 }
 @media only screen and (max-width:600px)
 {
-	.project_details_alignments img
+	.for_image
 	{	
-		max-width:80px;
-		max-height:80px;
+		width:80px;
+		height:80px;
 	}
 }
 .project_details_alignments .left_align
