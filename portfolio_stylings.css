@@ -195,15 +195,15 @@ footer ul li a:hover
 }
 .project_details_alignments img
 {	
-	width:200px;
-	height:200px;
+	max-width:200px;
+	max-height:200px;
 }
 @media only screen and (max-width:600px)
 {
 	.project_details_alignments img
 	{	
-		width:80px;
-		height:80px;
+		max-width:80px;
+		max-height:80px;
 	}
 }
 .project_details_alignments .left_align
